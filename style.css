@@ -1,0 +1,38 @@
+p {
+	font-size: 30px;
+	color: #25484d;		text-shadow: 3px 3px 6px rgb(0, 0, 0 , 1);
+	}
+.Field {
+	color: green;
+	font-size: 16px;
+}
+.container {
+	color: blue;
+	max-width: 400px;
+	margin: 200px;
+	padding: 100px;
+	background-color: yellow;
+	border-radius: 90px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 1.0);
+	text-shadow: 0 4px 12px rgba(0, 0, 0, 1.0);
+	font-family: Arial, sans-serif;
+}
+.container button {
+	width: 100%;
+	padding: 12px;
+	background-color: #007BF;
+	color: #ffffff;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+	font-size: 16px;
+}
+
+.container input:focus {
+	background-color: yellow;
+}
+
+#main {
+	text-shadow: 0 4px 12px rgba(0, 0, 0, 1.0);
+	color: grey;
+}
